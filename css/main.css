@@ -1,0 +1,17 @@
+h1{
+  color: blue;
+  text-align: center;
+}
+.doc{
+  font-size: 80px;
+}
+.buy{
+  color:black
+}
+.you{
+  background-image: url("../images/you.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
