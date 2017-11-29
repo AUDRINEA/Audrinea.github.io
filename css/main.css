@@ -1,17 +1,21 @@
 h1{
-  color: blue;
-  text-align: center;
+  color: blue; font-style: normal;
+  text-align: center
 }
 .doc{
-  font-size: 80px;
+  font-size: 90px;
 }
 .buy{
-  color:black
+  color:black; font-size: 65px
 }
 .you{
   background-image: url("../images/you.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: #fff;
+  color: #fff; font-style: italic; font-size: 24px
+
+}
+.turn{
+  color:black; font-size: 65px
 }
