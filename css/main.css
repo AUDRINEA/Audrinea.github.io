@@ -4,17 +4,21 @@ h1{
 }
 .doc{
   font-size: 90px;
+   font-family: 'Lobster', cursive;
 }
 .buy{
   color:black; font-size: 65px
 }
 .you{
   background-image: url("../images/you.jpg");
-  background-position: center;
+  background-position:center;
   background-repeat: no-repeat;
-  background-size: cover;
-  color: #fff; font-style: italic; font-size: 24px
+  background-size:cover;
+  color: #fff; font-style: italic; font-size: 26px
 
+}
+.me{
+  margin-left: 15%;
 }
 .turn{
   color:black; font-size: 65px
